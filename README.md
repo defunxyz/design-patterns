@@ -1,5 +1,5 @@
 # Design patterns
-
+All GoF Design Patterns implemented in relatively recent versions of various programming languages providing moderately realistic exemplifications. 
 
 References
 ----------
